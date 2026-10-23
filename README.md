@@ -18,13 +18,13 @@ What the notebook does
     
 Main results
 
-Measure	          Gradient boosting (E8)   	Wide 1D CNN (D5)
-Validation AUC	        0.931	                  0.932
-Test AUC	              0.933	                  0.935
-Test accuracy	          0.869	                  0.870
-Test F1	                0.910	                  0.910
-Kenya AUC	              0.873	                  0.865
-Togo AUC	              0.833                   0.865
+Measure	Gradient boosting (E8)	Wide 1D CNN (D5)
+Validation AUC	0.931	0.932
+Test AUC	0.933	0.935
+Test accuracy	0.869	0.870
+Test F1	0.910	0.910
+Kenya AUC	0.873	0.865
+Togo AUC	0.833	0.865
 
 The two best models are almost tied on the test set.
 Both lower on Kenya and Togo than on the test set.
